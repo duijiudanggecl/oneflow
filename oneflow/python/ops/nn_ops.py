@@ -3394,4 +3394,3 @@ def unfold3d(
         remote_blob_util.BlobDef: A `Blob` with the same type as value. The unfold output `Blob`.
     """
     raise NotImplementedError
-
