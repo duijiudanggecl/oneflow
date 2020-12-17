@@ -17,7 +17,6 @@ limitations under the License.
 #ifndef ONEFLOW_API_PYTHON_FRAMEWORK_FRAMEWORK_H_
 #define ONEFLOW_API_PYTHON_FRAMEWORK_FRAMEWORK_H_
 
-#include <string>
 #include "oneflow/api/python/framework/framework_helper.h"
 
 std::shared_ptr<oneflow::cfg::ErrorProto> RegisterForeignCallbackOnlyOnce(
